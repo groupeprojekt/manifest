@@ -1,0 +1,15 @@
+{
+  "name": "Groupe Project",
+  "short_name": "GP App",
+  "start_url": "https://www.calfeutrageprojekt.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+	  {
+      "src": "https://cdn.prod.website-files.com/668870198c24b3f817320b5f/66f9de6f490b93bd21b001b2_groupe_projekt_icon.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
